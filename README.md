@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markjholmes !
-- 👀 I’m a PhD student at the University of Namur, studying ecosystem stability and (kind of) plankton communities.
+- 👀 I’ve just finished my PhD at the University of Namur, studying ecosystem stability and (kind of) plankton communities.
 - 🌱 I’m currently learning R, Julia, Obsidian, and a bunch of things that don't need to be on github.
 
 <!---
